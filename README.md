@@ -9,13 +9,6 @@ This project implements a feature engineering and machine learning framework for
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Feature engineering techniques tailored for IoT network traffic
@@ -33,6 +26,7 @@ This project implements a feature engineering and machine learning framework for
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ddos-detection-iot.git
-cd ddos-detection-iot
-pip install -r requirements.txt
+git clone https://github.com/ns7523/DDoS-attack-in-IoT.git
+cd DDoS-attack-in-IoT
+```
+## Use Anaconda-Navigator as base
