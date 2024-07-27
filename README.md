@@ -1,6 +1,6 @@
 # DDoS-attack-in-IoT (Static Project)
 Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things.
-- Access the full project on Drive  : https://drive.google.com/drive/folders/1bRq1UTIuIg-C265mJaR5vSljp8t0Or3q?usp=sharing 
+- Access the full project on Drive  : (https://drive.google.com/file/d/184XtFI3veK6VM3PeF37cy4dEmEPGzm4C/view?usp=sharing)
 
 ## DDoS Attack Detection for IoT Networks
 ## Project Overview
