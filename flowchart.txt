@@ -1,0 +1,45 @@
+1. Importing the packages
+2. Exploring the dataset 
+	CIDDS IOT dataset
+3. Data processing
+	- pandas dataframe
+	- Dropping unwanted column
+
+4. Visualization using seaborn & matplotlib
+5. Label Encoding using LabelEncoder
+6. Splitting the data X and Y for Machine Learning
+8. Building the model
+
+	- Decision Tree
+	- Logistic Regression
+	- MLP
+	- SVM
+	- Random Forest
+	- Stacking Classifier - RF + MLP with LightGBM
+	- Voting CLassifier - RF + AB
+
+9. Training and Building the model
+
+
+Flask Framework
+----------------
+
+ 
+10. Flask Framework with Sqlite for signup and signin
+11. Importing the packages
+12. User gives input as Feature Values 
+13. The given input is preprocessed for prediction
+14. Trained model is used for prediction
+15. Final outcome is displayed through frontend
+
+Dataset : 
+https://www.kaggle.com/datasets/dhoogla/cidds001
+
+
+Extension
+----------
+
+In the base paper the author mentioned to use different machine learning model for analysis the dataset and proposed model RF got 98% of accuracy,
+As an extension we applied an ensemble method  combining the predictions of multiple individual models to produce a more robust and accurate final prediction.
+However, we can further enhance the performance by exploring other ensemble techniques such as Voting Classifier and Stacking CLassifier got 99% and 100% of accuracy 
+As an extension we can build the front end using the flask framework for user testing and with user authentication.
