@@ -1,2 +1,38 @@
 # DDoS-attack-in-IoT
-Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things
+Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things .
+# DDoS Attack Detection for IoT Networks
+
+## Project Overview
+This project implements a feature engineering and machine learning framework for detecting Distributed Denial of Service (DDoS) attacks in standardized Internet of Things (IoT) networks.
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Dataset](#dataset)
+- [Methodology](#methodology)
+- [Results](#results)
+- [Future Work](#future-work)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+- Feature engineering techniques tailored for IoT network traffic
+- Machine learning models for DDoS attack detection
+- Real-time analysis capabilities
+- Scalable architecture for IoT environments
+
+## Technologies Used
+- Python 3.x
+- Scikit-learn
+- TensorFlow/Keras
+- Pandas
+- NumPy
+- Matplotlib/Seaborn for visualization
+
+## Installation
+```bash
+git clone https://github.com/yourusername/ddos-detection-iot.git
+cd ddos-detection-iot
+pip install -r requirements.txt
