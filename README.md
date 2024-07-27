@@ -1,4 +1,4 @@
-# DDoS-attack-in-IoT
+# DDoS-attack-in-IoT (Static Project)
 Feature Engineering and Machine Learning Framework for DDoS Attack Detection in the Standardized Internet of Things .
 # DDoS Attack Detection for IoT Networks
 
